@@ -2,7 +2,8 @@
 
 void main()
 {
-	printf("hello!!");
+	printf("hello!!\n");
+	printf("I'm jimin");
 
 	return 0;
 }
